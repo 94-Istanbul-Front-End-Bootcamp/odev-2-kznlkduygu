@@ -1,5 +1,13 @@
 # Ödev 2
 
+![filter1](https://user-images.githubusercontent.com/48677712/124331283-b6e5f300-db97-11eb-845f-b557d698d43e.PNG)
+![filter2](https://user-images.githubusercontent.com/48677712/124331294-b8afb680-db97-11eb-93fb-9e08363db9f8.PNG)
+![filter3](https://user-images.githubusercontent.com/48677712/124331302-b9484d00-db97-11eb-87bc-e818fb27307c.PNG)
+
+
+
+
+
 ## Özet açıklama:
 Hafta 2 Gün 2 örneğindeki filtre özelliğini geliştirmeniz beklenmektedir.
 İlgili repo ve branch'e aşağıdaki link ile ulaşabilirsiniz.
